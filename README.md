@@ -16,6 +16,8 @@ fases e cada fase exige validação manual antes do início da próxima.
 - [`BUSINESS_RULES.md`](BUSINESS_RULES.md): catálogo inicial das regras de
   domínio que deverão ter implementação única.
 - [`CHANGELOG.md`](CHANGELOG.md): histórico versionado das alterações.
+- [`docs/02_ARCHITECTURE.md`](docs/02_ARCHITECTURE.md): arquitetura técnica
+  oficial e referência obrigatória para as fases de implementação.
 
 ## Regra para alterações
 

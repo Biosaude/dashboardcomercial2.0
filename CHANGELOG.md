@@ -12,3 +12,5 @@ e versionamento semântico.
 - Catálogo inicial e identificadores das regras de negócio.
 - Documentação da governança para alterações de regras.
 - README com o status da fase de fundação e mapa da documentação normativa.
+- Arquitetura técnica oficial, com camadas, módulos, fluxos, estratégias
+  transversais, restrições e decisões arquiteturais para as futuras fases.
