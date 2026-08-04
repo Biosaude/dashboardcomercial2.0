@@ -20,6 +20,8 @@ fases e cada fase exige validação manual antes do início da próxima.
   oficial e referência obrigatória para as fases de implementação.
 - [`docs/03_DATABASE.md`](docs/03_DATABASE.md): modelo físico oficial e
   referência para a futura fase de banco de dados.
+- [`docs/04_IMPORT_PROCESS.md`](docs/04_IMPORT_PROCESS.md): processo oficial,
+  seguro, versionado e não destrutivo de importação.
 
 ## Regra para alterações
 

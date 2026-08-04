@@ -16,3 +16,5 @@ e versionamento semântico.
   transversais, restrições e decisões arquiteturais para as futuras fases.
 - Modelo físico oficial do banco, incluindo entidades, relacionamentos,
   versionamento, RLS, integridade, prevenção de duplicidade e decisões pendentes.
+- Processo oficial de importação, incluindo arquivos privados, validação,
+  staging, preview, promoção transacional, versionamento, auditoria e rollback.
