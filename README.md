@@ -18,6 +18,8 @@ fases e cada fase exige validação manual antes do início da próxima.
 - [`CHANGELOG.md`](CHANGELOG.md): histórico versionado das alterações.
 - [`docs/02_ARCHITECTURE.md`](docs/02_ARCHITECTURE.md): arquitetura técnica
   oficial e referência obrigatória para as fases de implementação.
+- [`docs/03_DATABASE.md`](docs/03_DATABASE.md): modelo físico oficial e
+  referência para a futura fase de banco de dados.
 
 ## Regra para alterações
 

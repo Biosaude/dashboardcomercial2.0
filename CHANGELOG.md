@@ -14,3 +14,5 @@ e versionamento semântico.
 - README com o status da fase de fundação e mapa da documentação normativa.
 - Arquitetura técnica oficial, com camadas, módulos, fluxos, estratégias
   transversais, restrições e decisões arquiteturais para as futuras fases.
+- Modelo físico oficial do banco, incluindo entidades, relacionamentos,
+  versionamento, RLS, integridade, prevenção de duplicidade e decisões pendentes.
