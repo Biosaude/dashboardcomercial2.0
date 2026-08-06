@@ -22,6 +22,8 @@ fases e cada fase exige validação manual antes do início da próxima.
   referência para a futura fase de banco de dados.
 - [`docs/04_IMPORT_PROCESS.md`](docs/04_IMPORT_PROCESS.md): processo oficial,
   seguro, versionado e não destrutivo de importação.
+- [`docs/05_DASHBOARD.md`](docs/05_DASHBOARD.md): especificação funcional,
+  analítica e visual oficial do dashboard.
 
 ## Regra para alterações
 

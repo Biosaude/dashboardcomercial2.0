@@ -18,3 +18,5 @@ e versionamento semântico.
   versionamento, RLS, integridade, prevenção de duplicidade e decisões pendentes.
 - Processo oficial de importação, incluindo arquivos privados, validação,
   staging, preview, promoção transacional, versionamento, auditoria e rollback.
+- Especificação oficial do dashboard, incluindo filtros, indicadores, gráficos,
+  drill-down, reconciliação, acessibilidade e estados de interface.
