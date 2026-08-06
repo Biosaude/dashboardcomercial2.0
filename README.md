@@ -30,6 +30,8 @@ fases e cada fase exige validação manual antes do início da próxima.
   testes, evidências e gates de entrega.
 - [`docs/08_DEPLOYMENT_AND_OPERATIONS.md`](docs/08_DEPLOYMENT_AND_OPERATIONS.md):
   estratégia oficial de ambientes, deploy, operação e recuperação.
+- [`docs/09_ROADMAP.md`](docs/09_ROADMAP.md): plano oficial, incremental e
+  verificável para a implementação do produto.
 
 ## Regra para alterações
 

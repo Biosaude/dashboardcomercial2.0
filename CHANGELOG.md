@@ -26,3 +26,5 @@ e versionamento semântico.
   reconciliação, segurança, evidências e gates bloqueantes.
 - Estratégia oficial de deploy e operações, incluindo ambientes, releases,
   observabilidade, backup, recuperação, incidentes, manutenção e suporte.
+- Roadmap oficial de implementação, incluindo fases, marcos, MVP, dependências,
+  rastreabilidade, decisões bloqueantes, riscos e checkpoints obrigatórios.
