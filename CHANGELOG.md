@@ -20,3 +20,5 @@ e versionamento semântico.
   staging, preview, promoção transacional, versionamento, auditoria e rollback.
 - Especificação oficial do dashboard, incluindo filtros, indicadores, gráficos,
   drill-down, reconciliação, acessibilidade e estados de interface.
+- Especificação oficial de segurança, incluindo identidade, autorização, RLS,
+  privacidade, auditoria, ameaças, incidentes e controles operacionais.

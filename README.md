@@ -24,6 +24,8 @@ fases e cada fase exige validação manual antes do início da próxima.
   seguro, versionado e não destrutivo de importação.
 - [`docs/05_DASHBOARD.md`](docs/05_DASHBOARD.md): especificação funcional,
   analítica e visual oficial do dashboard.
+- [`docs/06_SECURITY.md`](docs/06_SECURITY.md): especificação oficial de
+  segurança, identidade, autorização, privacidade e auditoria.
 
 ## Regra para alterações
 
