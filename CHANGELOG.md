@@ -22,3 +22,7 @@ e versionamento semântico.
   drill-down, reconciliação, acessibilidade e estados de interface.
 - Especificação oficial de segurança, incluindo identidade, autorização, RLS,
   privacidade, auditoria, ameaças, incidentes e controles operacionais.
+- Estratégia oficial de qualidade e testes, incluindo pirâmide, riscos, datasets,
+  reconciliação, segurança, evidências e gates bloqueantes.
+- Estratégia oficial de deploy e operações, incluindo ambientes, releases,
+  observabilidade, backup, recuperação, incidentes, manutenção e suporte.

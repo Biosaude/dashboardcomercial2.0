@@ -26,6 +26,10 @@ fases e cada fase exige validação manual antes do início da próxima.
   analítica e visual oficial do dashboard.
 - [`docs/06_SECURITY.md`](docs/06_SECURITY.md): especificação oficial de
   segurança, identidade, autorização, privacidade e auditoria.
+- [`docs/07_TESTING.md`](docs/07_TESTING.md): estratégia oficial de qualidade,
+  testes, evidências e gates de entrega.
+- [`docs/08_DEPLOYMENT_AND_OPERATIONS.md`](docs/08_DEPLOYMENT_AND_OPERATIONS.md):
+  estratégia oficial de ambientes, deploy, operação e recuperação.
 
 ## Regra para alterações
 
