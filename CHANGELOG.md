@@ -4,6 +4,21 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 seguindo os princípios de [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/)
 e versionamento semântico.
 
+## [Não lançado]
+
+### Adicionado
+
+- Fundação Next.js com TypeScript strict, Tailwind, shadcn/ui preparado, Zod e
+  TanStack React Query.
+- Vitest, Testing Library, Playwright, ESLint, Prettier e CI inicial sem deploy.
+- Logging estruturado mínimo, `request_id` e guia de desenvolvimento.
+
+### Decidido
+
+- Vitest, Testing Library e Playwright como ferramentas iniciais de teste.
+- `America/Belem` como timezone oficial inicial.
+- Logging próprio e substituível, sem provedor externo na Fase 1.
+
 ## [2.0.0] - 2026-08-04
 
 ### Adicionado

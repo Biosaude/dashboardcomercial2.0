@@ -576,3 +576,11 @@ continuar automaticamente após checkpoint.
 - [x] nenhum código ou infraestrutura implementado.
 
 Este documento encerra somente o planejamento oficial de implementação.
+
+### Status de execução
+
+- **Fase 0:** concluída em 2026-08-07 para Vitest, Testing Library, Playwright,
+  timezone `America/Belem` e logging estruturado próprio, sem provedor externo.
+- **Fase 1:** em execução; somente será concluída após todos os gates e a
+  validação manual.
+- **Fase 2:** não iniciada.

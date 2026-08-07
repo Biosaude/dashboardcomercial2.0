@@ -6,8 +6,37 @@ Produtos Hospitalares.
 
 ## Status
 
-O repositório está na **Fase 1 — Fundação**. A implementação deve avançar por
-fases e cada fase exige validação manual antes do início da próxima.
+O projeto está na **Fase 1 — Fundação do projeto**. A fundação inclui App Router,
+TypeScript strict, Tailwind CSS, providers, contratos técnicos, logging
+estruturado e ferramentas de qualidade. Nenhum módulo de negócio foi iniciado.
+
+Timezone oficial inicial: **America/Belem**.
+
+## Instalação e comandos
+
+Pré-requisitos: Node.js 22 ou superior e npm com acesso ao registry.
+
+```bash
+npm install
+npm run dev
+npm run format:check
+npm run lint
+npm run typecheck
+npm test
+npm run test:e2e
+npm run build
+```
+
+O E2E verifica o nome do produto. Instale o browser quando necessário com
+`npx playwright install --with-deps chromium`.
+
+## Estrutura resumida
+
+- `src/app`: App Router e providers;
+- `src/modules`: limites modulares, sem negócio na Fase 1;
+- `src/components/ui`: shadcn/ui sob demanda;
+- `src/contracts`, `src/hooks`, `src/lib`: contratos e infraestrutura comum;
+- `src/styles`, `src/test` e `e2e`: estilos e testes.
 
 ## Documentação normativa
 
@@ -32,6 +61,8 @@ fases e cada fase exige validação manual antes do início da próxima.
   estratégia oficial de ambientes, deploy, operação e recuperação.
 - [`docs/09_ROADMAP.md`](docs/09_ROADMAP.md): plano oficial, incremental e
   verificável para a implementação do produto.
+- [`docs/10_DEVELOPMENT.md`](docs/10_DEVELOPMENT.md): setup, comandos e
+  convenções da fundação.
 
 ## Regra para alterações
 
