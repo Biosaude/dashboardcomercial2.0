@@ -1,0 +1,17 @@
+.next
+coverage
+node_modules
+playwright-report
+test-results
+package-lock.json
+BUSINESS_RULES.md
+CHANGELOG.md
+PROJECT_SPECIFICATION.md
+docs/02_ARCHITECTURE.md
+docs/03_DATABASE.md
+docs/04_IMPORT_PROCESS.md
+docs/05_DASHBOARD.md
+docs/06_SECURITY.md
+docs/07_TESTING.md
+docs/08_DEPLOYMENT_AND_OPERATIONS.md
+docs/09_ROADMAP.md

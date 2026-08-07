@@ -1,0 +1,45 @@
+# Changelog
+
+Todas as alterações relevantes deste projeto serão documentadas neste arquivo,
+seguindo os princípios de [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/)
+e versionamento semântico.
+
+## [Não lançado]
+
+### Adicionado
+
+- Fundação Next.js com TypeScript strict, Tailwind, shadcn/ui preparado, Zod e
+  TanStack React Query.
+- Vitest, Testing Library, Playwright, ESLint, Prettier e CI inicial sem deploy.
+- Logging estruturado mínimo, `request_id` e guia de desenvolvimento.
+
+### Decidido
+
+- Vitest, Testing Library e Playwright como ferramentas iniciais de teste.
+- `America/Belem` como timezone oficial inicial.
+- Logging próprio e substituível, sem provedor externo na Fase 1.
+
+## [2.0.0] - 2026-08-04
+
+### Adicionado
+
+- Especificação mestre do Biosaúde Analytics 2.0.
+- Catálogo inicial e identificadores das regras de negócio.
+- Documentação da governança para alterações de regras.
+- README com o status da fase de fundação e mapa da documentação normativa.
+- Arquitetura técnica oficial, com camadas, módulos, fluxos, estratégias
+  transversais, restrições e decisões arquiteturais para as futuras fases.
+- Modelo físico oficial do banco, incluindo entidades, relacionamentos,
+  versionamento, RLS, integridade, prevenção de duplicidade e decisões pendentes.
+- Processo oficial de importação, incluindo arquivos privados, validação,
+  staging, preview, promoção transacional, versionamento, auditoria e rollback.
+- Especificação oficial do dashboard, incluindo filtros, indicadores, gráficos,
+  drill-down, reconciliação, acessibilidade e estados de interface.
+- Especificação oficial de segurança, incluindo identidade, autorização, RLS,
+  privacidade, auditoria, ameaças, incidentes e controles operacionais.
+- Estratégia oficial de qualidade e testes, incluindo pirâmide, riscos, datasets,
+  reconciliação, segurança, evidências e gates bloqueantes.
+- Estratégia oficial de deploy e operações, incluindo ambientes, releases,
+  observabilidade, backup, recuperação, incidentes, manutenção e suporte.
+- Roadmap oficial de implementação, incluindo fases, marcos, MVP, dependências,
+  rastreabilidade, decisões bloqueantes, riscos e checkpoints obrigatórios.
