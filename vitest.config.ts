@@ -10,7 +10,7 @@ export default defineConfig({
   },
   test: {
     environment: "jsdom",
-    setupFiles: ["./src/test/setup.ts"],
+    setupFiles: [fileURLToPath(new URL("./src/test/setup.ts", import.meta.url))],
     include: ["src/**/*.test.{ts,tsx}"],
   },
 });
